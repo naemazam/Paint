@@ -5,14 +5,17 @@ Paint is a simple raster graphics editor that has been included with all version
 # Online Website
 
 This is a Js Based Website You can Use It live and Download Your ART on PNG or JPEG format.
-![](./napaint.PNG)
+![](./webpaint.PNG)
 
-[](./napaint.PNG)
+[Visit](https://naemazam.github.io/Paint/)
 
 # Python APP
 
 A simple Python GUI Based Project You can Do Arts. Have Brush, eraser, pen, RGB colors.
 
 ![](./napaint.PNG)
+
+# Install 
+
 
 
